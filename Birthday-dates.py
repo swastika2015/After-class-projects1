@@ -1,0 +1,10 @@
+Swastika=9,1,2015
+Nirvika=30,11,2013
+Rachita=1,1,2014
+Shaifalika=2,2,2014
+Swostipriya=16,9,2014
+print(Swastika)
+print(Nirvika)
+print(Rachita)
+print(Shaifalika)
+print(Swostipriya)
