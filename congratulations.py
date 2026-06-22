@@ -1,3 +1,3 @@
-c = "Congratulations for winning the drawing competition"
+c = input("Entter the word in lower case:")
 
-print(c)
+print(c.upper())
